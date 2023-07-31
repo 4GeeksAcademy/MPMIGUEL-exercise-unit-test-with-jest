@@ -32,4 +32,4 @@ test("One yen should be 0.8", () =>{
         const expected = 1 * 0.8; 
         
          expect(pounds).toBe(expected); 
-        });
+ });
